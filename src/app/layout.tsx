@@ -46,7 +46,7 @@ export default function RootLayout({ children }: { children: any }) {
             <div className="mt-12 mb-4 text-center text-sm">
               ©2023 Convex, Inc.{" "}
               <a
-                href="https://github.com/get-convex/next13-demo"
+                href="https://github.com/convex/next13-demo"
                 target="_blank"
               >
                 Github repo
